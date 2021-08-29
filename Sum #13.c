@@ -1,3 +1,7 @@
+#include<stdio.h>
+#include<math.h>
+#include<stdlib.h>
+#define cuenta 472395814
 
 //FUNCION DEPOSITO
 float depo(float capital,float d){
